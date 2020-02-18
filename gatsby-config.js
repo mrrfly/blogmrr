@@ -1,12 +1,13 @@
 module.exports = {
   siteMetadata: {
     // edit below
-    title: `Gatsby Starter Personal Blog`,
-    author: `Kyle Matthews`,
-    description: `A starter personal blog with styled components, dark mode, and Netlify CMS.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    title: `MUHAMMAD RAFLY RAMADHAN`,
+    author: `MUHAMMAD RAFLY RAMADHAN`,
+    description: `WEB PROFIL MUHAMMAD RAFLY RAMADHAN`,
+    siteUrl: `https://pemilik.ciriung.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `mrr_encode`,
+      instagram: `mrrfly`,
     },
   },
   plugins: [
@@ -70,14 +71,14 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `MUHAMMAD RAFLY RAMADHAN`,
+        short_name: `MRRFLY`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
         // edit below
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/fotokuganteng.jpg`,
       },
     },
     {
